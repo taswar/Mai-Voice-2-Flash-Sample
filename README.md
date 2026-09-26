@@ -1,5 +1,7 @@
 # Mai-Voice-2-Flash-Sample
 
+Blog Post: [MAI-Voice-2 Flash for .NET Developers — Real-Time Voice on Azure Speech](https://taswar.zeytinsoft.com/mai-voice-2-flash-dotnet-developers/)
+
 Samples that synthesize speech using the **MAI-Voice-2 Flash** model hosted on **Azure Speech**, with Entra ID user-secrets/environment-variable configuration (no hardcoded keys).
 
 This repo contains two runnable projects:
