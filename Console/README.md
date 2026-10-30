@@ -11,7 +11,7 @@ Demonstrates:
 ## Prerequisites
 
 - [.NET 10 SDK](https://dotnet.microsoft.com/download)
-- An Azure Speech resource (or Azure AI Foundry resource) with **MAI-Voice-2 Flash** deployed
+- An Azure Speech resource (or Microsoft Foundry resource) with **MAI-Voice-2 Flash** deployed
 
 ## Required libraries
 
