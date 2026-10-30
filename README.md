@@ -7,10 +7,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
-- 📖 Full walkthrough: [MAI-Voice-2 Flash for .NET Developers — Real-Time Voice on Azure Speech](https://taswar.zeytinsoft.com/mai-voice-2-flash-dotnet-developers/)
+- 📖 Full walkthrough: [MAI-Voice-2 Flash for .NET Developers — Real-Time Voice on Azure Speech](https://taswar.zeytinsoft.com/mai-voice-2-flash-dotnet-developers/?utm_source=github&utm_medium=readme&utm_campaign=Mai-Voice-2-Flash-Sample&utm_content=walkthrough)
 - ⭐ If this sample helps you, star the repo so other .NET developers can find it.
 - 🔁 Related: [MAI-Image-2.5-Pro C# Sample](https://github.com/taswar/MAI-Image-2.5-Pro-Sample), Microsoft's image model on Foundry
-- For more C# samples using other AI models, see [AI models for C# developers](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/)
+- For more C# samples using other AI models, see [AI models for C# developers](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/?utm_source=github&utm_medium=readme&utm_campaign=Mai-Voice-2-Flash-Sample&utm_content=ai-models-hub)
 - For my free ebook on prompt engineering, see [Prompt Engineering for .NET Developers](https://github.com/taswar/PromptEngineeringForDotNetDevelopers)
 
 .NET 10 samples that turn text into speech (text-to-speech) with the **MAI-Voice-2 Flash** model hosted on **Azure Speech**, using the Speech SDK. The Speech key and region are read from user secrets or environment variables, so no keys are hard-coded.
